@@ -1,0 +1,5 @@
+mysql
+localhost:3306
+negocmerc
+david
+davifjc
